@@ -1,5 +1,5 @@
 # Programa para transferência de arquivos entre computadores via FTP
-Autor: Luan Fellipe (allen08)
+## Autor: Luan Fellipe (allen08)
 
 Necessário:
 - python (>= 3.2)
